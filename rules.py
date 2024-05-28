@@ -1,0 +1,10 @@
+def print_rules():
+    print("")
+    print("==============================================")
+    print("======== Harry Potter Character Rules ========")
+    print("==============================================")
+    print("1. Does not include Harry Potter, Hermoine Granger, or Ron Weasley")
+    print("2. The character count includes book references ONLY")
+    print("3. Characters will only be pulled in if they are referenced in that book.")
+    print("==============================================")
+    print("")
